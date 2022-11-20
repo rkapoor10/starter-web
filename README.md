@@ -10,4 +10,4 @@ These are some changes for staging area
 
 tHESE are some unstaged changes
 
-Master has some updates - do you receive feature ? 
+Master has some updates - do you receive feature ? Yes I do
